@@ -1,8 +1,8 @@
 # sql_project_1
 
-//I designed a relational database using SQL, which was inspired by the SEN2 Return. The database includes tables that contain information related to individuals aged 0-25 who are receiving education and have EHCPs, as well as information about their parents, schools, whether students are a lac, and the support and funding they receive during provision panels. The primary objective of this database is to enable data-driven decisions that can improve educational outcomes for these individuals. All pieces of information are fictional and most personal data is loosely based on our current demographics in England. //
+_I designed a relational database using SQL, which was inspired by the SEN2 Return. The database includes tables that contain information related to individuals aged 0-25 who are receiving education and have EHCPs, as well as information about their parents, schools, whether students are a lac, and the support and funding they receive during provision panels. The primary objective of this database is to enable data-driven decisions that can improve educational outcomes for these individuals. All pieces of information are fictional and most personal data is loosely based on our current demographics in England._
 
-//The ERD diagram shows seven main tables in the database: “students”, “parents”, “officers”, “schools”, “panel_provisions”, “lac_information”, “sen_needs”, and “band”.//
+_The ERD diagram shows seven main tables in the database: “students”, “parents”, “officers”, “schools”, “panel_provisions”, “lac_information”, “sen_needs”, and “band”._
 
 **Brief description of each entity:**
 
